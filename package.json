@@ -1,0 +1,27 @@
+{
+  "name": "'",
+  "version": "0.0.0",
+  "description": "Reaad",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "bcrypt": "^2.3.0",
+    "body-parser": "^1.15.0",
+    "bootstrap": "^3.3.6",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "latest",
+    "ejs": "latest",
+    "express": "^4.13.4",
+    "express-session": "latest",
+    "mongoose": "latest",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "raj amit",
+  "license": "ISC"
+}
